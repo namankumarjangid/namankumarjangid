@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://instagram.com/the_namanjangid" target="blank"><img align="center" src="https://desiprogrammer.com/static/icons/instagram.svg" alt="namaninsta" height="80" width="80" /></a>
 <a href="https://twitter.com/the_namanjangid" target="blank"><img align="center" src="https://desiprogrammer.com/static/icons/twitter.svg" alt="namantwitter" height="80" width="80" /></a>
-<a href="https://fb.com/namanjangid" target="blank"><img align="center" src="https://iconscout.com/icons/facebook-logo-2019" alt="namanfb" height="80" width="80" /></a>
+<a href="https://fb.com/namanjangid" target="blank"><img align="center" src="https://desiprogrammer.com/static/icons/facebook.svg" alt="namanfb" height="80" width="80" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
