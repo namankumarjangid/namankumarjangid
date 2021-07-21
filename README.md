@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🖐, I'm Naman Jangid 👩‍💻</h1>
 <h3 align="center">What we know is a Drop, What we don't know is an Ocean.</h3>
 
-- 👨‍💻 All of my projects are available at [Naman-Portfolio](https://namanjiportfolio.herokuapp.com)
+- 👨‍💻 My Portfolio click Here [Naman-Portfolio](https://namanjiportfolio.herokuapp.com)
 
 - 🔭 I’m currently working on **A lot of Projects...**
 
