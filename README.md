@@ -3,7 +3,7 @@
 
 - 👨‍💻 My Portfolio click Here [Naman-Portfolio](https://namanjiportfolio.herokuapp.com)
 
-- 🔭 I’m currently working on **A lot of Projects...**
+- 🔭 I’m currently working on **React/React Native, Nodejs, Vuejs**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
