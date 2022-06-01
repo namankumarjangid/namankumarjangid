@@ -3,18 +3,18 @@
 
 - 👨‍💻 My Portfolio click Here [Naman-Portfolio](https://namanjiportfolio.herokuapp.com)
 
-- 🔭 I’m currently working on **React/React Native, Nodejs, Vuejs**
+- 🔭 I’m currently working on **React, React Native, Nodejs**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
 - 👨‍💻 All of my projects are available at [www.github.com](https://github.com/namankumarjangid?tab=repositories)
 
 
-- 💬 Ask me about **react, react native, mongodb, mysql, flutter, python, django, nodejs, github....**
+- 💬 Ask me about **react, react native, mongodb, mysql, flutter, python, nodejs, github....**
 
 - 📫 How to reach me **namanjangid80162@gmail.com**
 
-- ⚡ Fun fact **Started as a Failure, I Never knew I could learn this 🙂😁**
+- ⚡ Fun fact **Started as a Super Failure, I Never knew I could learn this 🙂😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
