@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naman Kumar Jangid</h1>
 <h3 align="center">What we know is a Drop, what we don't know is an Ocean.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=namankumarjangid&label=Profile%20views&color=0e75b6&style=flat" alt="namankumarjangid" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namankumarjangid" alt="namankumarjangid" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/the_namanjangid" target="blank"><img src="https://img.shields.io/twitter/follow/the_namanjangid?logo=twitter&style=for-the-badge" alt="the_namanjangid" /></a> </p>
-
 - 🔭 I’m currently working on **React, React Native, Nodejs, mongoDB, Nestjs**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
@@ -44,3 +38,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=namankumarjangid&show_icons=true&locale=en" alt="namankumarjangid" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namankumarjangid&" alt="namankumarjangid" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=namankumarjangid&label=Profile%20views&color=0e75b6&style=flat" alt="namankumarjangid" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namankumarjangid" alt="namankumarjangid" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/the_namanjangid" target="blank"><img src="https://img.shields.io/twitter/follow/the_namanjangid?logo=twitter&style=for-the-badge" alt="the_namanjangid" /></a> </p>
