@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Naman Kumar Jangid</h1>
+# <div align="center">Hi there, I'm Naman Jangid  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"></div>
 <h3 align="center">What we know is a Drop, what we don't know is an Ocean.</h3>
 
 - 🔭 I’m currently working on **React, React Native, Nodejs, mongoDB, Nestjs**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-- 👨‍💻 All of my basic projects are available at [www.github.com/namankumarjangid](www.github.com/namankumarjangid)
+- 👨‍💻 All of my basic projects are available [here](www.github.com/namankumarjangid)
 
 - 📝 I regularly write articles on [linkedin](https://www.linkedin.com/in/namankumarjangid/)
 
