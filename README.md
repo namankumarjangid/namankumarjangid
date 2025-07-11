@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my basic projects are available at [www.github.com/namankumarjangid](www.github.com/namankumarjangid)
 
-- 📝 I regularly write articles on [linkedin](linkedin)
+- 📝 I regularly write articles on [linkedin](https://www.linkedin.com/in/namankumarjangid/)
 
 - 💬 Ask me about **react, react-native, nodejs, mongoDB**
 
