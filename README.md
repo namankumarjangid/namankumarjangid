@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-- 👨‍💻 All of my basic projects are available [here](www.github.com/namankumarjangid)
+- 👨‍💻 All of my basic projects are available [here](https://github.com/namankumarjangid?tab=repositories)
 
 - 📝 I regularly write articles on [linkedin](https://www.linkedin.com/in/namankumarjangid/)
 
