@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-- 👨‍💻 All of my basic projects are available [here](https://github.com/namankumarjangid?tab=repositories)
+- 👨‍💻 All of my basic public projects/learning are available [here](https://github.com/namankumarjangid?tab=repositories)
 
 - 📝 I regularly write articles on [linkedin](https://www.linkedin.com/in/namankumarjangid/)
 
-- 💬 Ask me about **react, react-native, nodejs, mongoDB**
+- 💬 Ask me about **React, React-native, Node JS, Next JS, databases, SQL, mongoDB, Nest JS**
 
 - 📫 How to reach me **namanjangid80162@gmail.com**
 
